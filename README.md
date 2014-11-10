@@ -1,2 +1,6 @@
-runtime-registry-example
-========================
+
+
+    $ npm install
+    $ node scripts/postinstall.js
+
+    $ npm start
